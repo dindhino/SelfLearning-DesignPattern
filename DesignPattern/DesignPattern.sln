@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessDelegatePattern", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeEntityPattern", "CompositeEntityPattern\CompositeEntityPattern.csproj", "{41803F04-4DA6-4185-95AC-3F49F66FBEF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessObjectPattern", "DataAccessObjectPattern\DataAccessObjectPattern.csproj", "{F65F47FD-21A7-4A82-B630-D913A6DEF417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{41803F04-4DA6-4185-95AC-3F49F66FBEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41803F04-4DA6-4185-95AC-3F49F66FBEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41803F04-4DA6-4185-95AC-3F49F66FBEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65F47FD-21A7-4A82-B630-D913A6DEF417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65F47FD-21A7-4A82-B630-D913A6DEF417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65F47FD-21A7-4A82-B630-D913A6DEF417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65F47FD-21A7-4A82-B630-D913A6DEF417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
