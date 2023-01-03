@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCPattern", "MVCPattern\MV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessDelegatePattern", "BusinessDelegatePattern\BusinessDelegatePattern.csproj", "{ACBE7E18-FFB5-4273-9354-503666647932}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeEntityPattern", "CompositeEntityPattern\CompositeEntityPattern.csproj", "{41803F04-4DA6-4185-95AC-3F49F66FBEF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{ACBE7E18-FFB5-4273-9354-503666647932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACBE7E18-FFB5-4273-9354-503666647932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACBE7E18-FFB5-4273-9354-503666647932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41803F04-4DA6-4185-95AC-3F49F66FBEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41803F04-4DA6-4185-95AC-3F49F66FBEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41803F04-4DA6-4185-95AC-3F49F66FBEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41803F04-4DA6-4185-95AC-3F49F66FBEF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
