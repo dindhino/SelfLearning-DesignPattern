@@ -55,13 +55,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplatePattern", "Template
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCPattern", "MVCPattern\MVCPattern.csproj", "{4C4D5A56-290A-4C38-AB0A-CD6E5C4648DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessDelegatePattern", "BusinessDelegatePattern\BusinessDelegatePattern.csproj", "{ACBE7E18-FFB5-4273-9354-503666647932}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessDelegatePattern", "BusinessDelegatePattern\BusinessDelegatePattern.csproj", "{ACBE7E18-FFB5-4273-9354-503666647932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeEntityPattern", "CompositeEntityPattern\CompositeEntityPattern.csproj", "{41803F04-4DA6-4185-95AC-3F49F66FBEF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeEntityPattern", "CompositeEntityPattern\CompositeEntityPattern.csproj", "{41803F04-4DA6-4185-95AC-3F49F66FBEF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessObjectPattern", "DataAccessObjectPattern\DataAccessObjectPattern.csproj", "{F65F47FD-21A7-4A82-B630-D913A6DEF417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessObjectPattern", "DataAccessObjectPattern\DataAccessObjectPattern.csproj", "{F65F47FD-21A7-4A82-B630-D913A6DEF417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontControllerPattern", "FrontControllerPattern\FrontControllerPattern.csproj", "{8F6A128D-0470-4ED7-AD77-05E1A7DE4D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrontControllerPattern", "FrontControllerPattern\FrontControllerPattern.csproj", "{8F6A128D-0470-4ED7-AD77-05E1A7DE4D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterceptingFilterPattern", "InterceptingFilterPattern\InterceptingFilterPattern.csproj", "{C2DBEA96-3DD2-4E2D-A748-828CE6975E93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{8F6A128D-0470-4ED7-AD77-05E1A7DE4D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F6A128D-0470-4ED7-AD77-05E1A7DE4D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F6A128D-0470-4ED7-AD77-05E1A7DE4D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DBEA96-3DD2-4E2D-A748-828CE6975E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DBEA96-3DD2-4E2D-A748-828CE6975E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DBEA96-3DD2-4E2D-A748-828CE6975E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DBEA96-3DD2-4E2D-A748-828CE6975E93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
