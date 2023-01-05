@@ -1,3 +1,3 @@
 # SelfLearning-DesignPattern
 
-Learning resource: [GeeksForGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+Learning resource: [tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)
